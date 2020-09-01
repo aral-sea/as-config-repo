@@ -21,7 +21,7 @@ eureka:
   instance:
     hostname: 127.0.0.1
     prefer-ip-address: false
-    
+
 # 制定监控预警规则：spring-boot-starter-actuator起到的作用配置
 management:
   endpoints:
